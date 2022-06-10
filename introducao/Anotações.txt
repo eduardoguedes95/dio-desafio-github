@@ -1,0 +1,16 @@
+Comandos básicos do git:
+Git Init
+Git Config
+Git Add
+Git Clone
+Git Commit
+Git Checkout
+Git Remote
+Git Branch
+Git Merge
+Git Diff
+Git Push
+Git Pull
+Git Status
+
+Links futuros:
